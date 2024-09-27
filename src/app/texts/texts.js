@@ -1,9 +1,9 @@
-const title = "AFROLIBRE (BOJEP)";
-const email = ""; // Información no proporcionada
+const title = "AFROLIBRE (BOROJEP)";
+const email = "wilsonpalaciosprofe1976@gmail.com";
 const mensajeWhatsApp = encodeURIComponent(
-    "¡Hola! Estoy muy interesado en tus productos de " + title + " y me gustaría recibir más información sobre ellos. Espero poder hablar pronto contigo para aclarar algunas dudas. ¡Gracias!"
+    "¡Hola! Estoy interesado en conocer más sobre los productos de " + title + " y me gustaría obtener más información. ¡Gracias!"
 );
-const numeroWhatsApp = ""; // Información no proporcionada
+const numeroWhatsApp = "+573132744263"; // Incluido el prefijo +57
 
 const textos = {
     index: {
@@ -13,8 +13,8 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "AFROLIBRE (BOJEP) ofrece una variedad de productos naturales como jugos de borojó, compota de borojó, galletas de borojó, jaleas de borojó y jugo de yuca, entre otros. Nuestro lema es 'Borojep', reflejando nuestro compromiso con la calidad y la autenticidad de nuestros productos.",
-        description2: "En AFROLIBRE (BOJEP), nos dedicamos a ofrecerte productos naturales que conservan el sabor y las propiedades beneficiosas de los ingredientes. Descubre cómo nuestras opciones pueden enriquecer tu dieta y tu vida diaria."
+        description1: "En AFROLIBRE, consegues una variedad de productos típicos afro de nuestra región como jugos, compotas, galletas, jaleas y néctares típicos de borojó, chontaduro, mil peso, entre otros. También ofrecemos bebidas típicas y medicinales afrocolombianas como viche, arrechon, vinete, tumba castre, y la botella compuesta medicinal, que sirve para diferentes enfermedades como fríos en la matriz, dolor menstrual, dolor de cabeza e infertilidad en hombres y mujeres.",
+        description2: "En AFROLIBRE, nos dedicamos a ofrecerte productos naturales y medicinales que contienen vitaminas y proteínas, conservando el sabor y las propiedades beneficiosas de los ingredientes. Descubre cómo nuestras opciones pueden enriquecer tu dieta y tu vida diaria."
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
@@ -22,14 +22,14 @@ const textos = {
     },
     footer: {
         slogan: {
-            p1: "Borojep",
+            p1: "Borojep.",
             p2: ""
         },
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/",
-        instagram: "https://www.instagram.com/",
+        facebook: "https://www.facebook.com/profile.php?id=61565950811951", // Enlace específico de Facebook
+        instagram: "https://www.instagram.com/", // Enlace específico de Instagram
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
 };
