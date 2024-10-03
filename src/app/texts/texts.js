@@ -13,8 +13,11 @@ const textos = {
         title: title,
     },
     about: {
-        description1: "En AFROLIBRE, consegues una variedad de productos típicos afro de nuestra región como jugos, compotas, galletas, jaleas y néctares típicos de borojó, chontaduro, mil peso, entre otros. También ofrecemos bebidas típicas y medicinales afrocolombianas como viche, arrechon, vinete, tumba castre, y la botella compuesta medicinal, que sirve para diferentes enfermedades como fríos en la matriz, dolor menstrual, dolor de cabeza e infertilidad en hombres y mujeres.",
-        description2: "En AFROLIBRE, nos dedicamos a ofrecerte productos naturales y medicinales que contienen vitaminas y proteínas, conservando el sabor y las propiedades beneficiosas de los ingredientes. Descubre cómo nuestras opciones pueden enriquecer tu dieta y tu vida diaria."
+        description1: "AFROLIBRE - Fundación Afrocolombiana de Desarrollo Social.\n" +
+            "\n" +
+            "En AFROLIBRE consigues una variedad de productos típicos afro de nuestra región como jugos, compotas, galletas, jaleas y néctares de borojó, chontaduro, mil peso entre otros... también encuentrarás bebidas típicas y medicinales afrocolombianas como viche, arrechon, vinete, tumba castre y la botella compuesta medicinal la cual sirve para diferentes enfermedades como fríos en la matriz, dolor menstrual, dolor de cabeza e infertilidad en hombres y mujeres. Nuestro lema es 'BOROJEP', reflejando nuestro compromiso con la calidad y la autenticidad de nuestros productos.\n" +
+            "\n" +
+            "En AFROLIBRE , nos dedicamos a ofrecerte productos naturales y medicinales que contiene vitaminas y proteínas que conservan el sabor y las propiedades beneficiosas de los ingredientes. Descubre cómo nuestras opciones pueden enriquecer tu dieta y tu vida diaria."
     },
     contact: {
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`,
