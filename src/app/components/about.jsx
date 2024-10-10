@@ -18,6 +18,14 @@ export default function About() {
                         <h2 className="about-title honk-title ">Objetivo</h2>
                         <p className='about-text'> {Text.about.description2}</p>
 
+                        <h2 className="about-title honk-title ">Misión</h2>
+                        <p className='about-text'> {Text.about.description3}</p>
+
+                        <h2 className="about-title honk-title ">Visión</h2>
+                        <p className='about-text'> {Text.about.description4}</p>
+
+                        <h2 className="about-title honk-title ">Servicios</h2>
+                        <p className='about-text'> {Text.about.description5}</p>
                     </div>
                 </div>
         </div>
