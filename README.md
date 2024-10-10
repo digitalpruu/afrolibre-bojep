@@ -36,8 +36,30 @@ Lo siguiente que deberas hacer es abrir Github Desktop y loguearte con tu cuenta
 
 ![Img_5.jpeg](ReadAssets%2FGithub%2FImg_5.jpeg)
 
-📁 Una vez que hayas instalado Github Desktop y te hayas logueado con tu cuenta de Github, te saldra una interfaz como esta, ahora deberás seguir los siguientes pasos para descargar tu sitio web:
+📁 Una vez que hayas instalado Github Desktop y te hayas logueado con tu cuenta de Github, te saldra una interfaz como esta, ahora deberás seguir los siguientes pasos para configurar tu github y poder administrar tu sitio web:
+Dentro de github desktop (La aplicacion que acabamos de descargar) debemos darle al boton **ARCHIVO** tambien lo puedes encontrar como **FILE**.
+
+![img-2.jpeg](ReadAssets%2FGithub%2Fimg-2.jpeg)
+
+📁 Una vez que hayas dado al boton **ARCHIVO** te saldra una ventana como esta, en la cual deberas darle al boton **OPCIONES** tambien lo puedes encontrar como **OPTIONS**.
+
+![img-1.jpeg](ReadAssets%2FGithub%2Fimg-1.jpeg)
+
+📁 Una vez que hayas dado al boton **OPCIONES** te saldra una ventana como esta, en la cual deberas ingresar a **GIT**.
+
+![img-3.jpeg](ReadAssets%2FGithub%2Fimg-3.jpeg)
+
+📁 Una vez que hayas ingresado a **GIT** deberas configurar tu correo de Github con el correo de *DigitalPRUU*. Deberas seleccionar la opcion **Otros** y colocar el correo de *DigitalPRUU*. (digitalPruu@gmail.com)
+
+![img-4.jpeg](ReadAssets%2FGithub%2Fimg-4.jpeg)
+
+📁 Una vez que hayas configurado tu Github Desktop y te hayas puesto bien el correo de *DigitalPRUU* a tu cuenta de Github, deberas darle al boton **GUARDAR** o **SAVE**. 
+
+![img-5.jpeg](ReadAssets%2FGithub%2Fimg-5.jpeg)
+
+📁 Una vez que hayas configurado tu Github Desktop y te hayas puesto bien el correo de *DigitalPRUU* a tu cuenta de Github, te saldra una interfaz como esta, ahora deberás seguir los siguientes pasos para descargar tu sitio web:
 Dentro de github desktop (La aplicacion que acabamos de descargar) debemos darle al boton **Clonar un repositorio desde internet**.
+
 
 ![Img_6.jpeg](ReadAssets%2FGithub%2FImg_6.jpeg)
 
