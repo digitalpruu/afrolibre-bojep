@@ -155,83 +155,124 @@ En este punto reemplazaremos la imagen que queramos modificar por la nueva image
 **TIP 💡**: Si deseas cambiar la imagen de un banner o logo, te recomendamos que la imagen tenga las mismas dimensiones que la imagen que deseas reemplazar.
 
 
-![img_5.png](ReadAssets%2FPagina%2Fimg_5.png)
-
 🟢🟢 Como puedes ver hemos reemplazado la imagen **"mainImage.jpg"** por una nueva imagen con el mismo nombre y formato. 🟢🟢
 
 <br>
 
-**Ejemplo 🤓**: 🔵🔵 Si deseamos modificar el enlace de la sección **"Facebook"** que se encuentra en nuestro pie de pagina, debemos ingresar al archivo **"Footer.jsx"** desde cualquier editor de texto. 🔵🔵
+🛠🖥️️ Ahora si deseamos modificar los textos de nuestro sitio web 🖥️🛠️ (Títulos, descripciones, etc) debemos volver a la carpeta principal.
+
+![img_5.png](ReadAssets%2FPagina%2Fimg_5.png)
+
+📁 Una vez ingresemos a nuestra carpeta **"src"** veremos una carpeta similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
 
 ![img_6.png](ReadAssets%2FPagina%2Fimg_6.png)
 
-Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso **"Facebook"**.
-
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
-
+📁 En este momento tenemos **VARIAS OPCIONES** que dependen de nuestra necesidad, pero por ahora nos enfocaremos en cambiar nuestros textos.: 
+**Entraremos a la carpeta TEXTS**.
 
 ![img_7.png](ReadAssets%2FPagina%2Fimg_7.png)
 
-**TIP 💡**: 🔵🔵 Como puedes ver en este caso encontramos el link de facebook en la linea 26, pero asi mismo encontramos la posibilidad de poner nuestro link de instagram o whatsapp unas lineas mas abajo 🔵🔵 
-
-**TIP 💡**: Si deseas modificar un enlace, asegúrate de que el enlace sea correcto y que no tenga errores de escritura.
-
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
+📁 Una vez ingresemos a nuestra carpeta **"TEXTS"** encontraremos los archivos necesarios para la visualización de nuestros textos.
 
 ![img_8.png](ReadAssets%2FPagina%2Fimg_8.png)
 
-Asi nos quedaria nuestro enlace de facebook, instagram y whatsApp modificado.
+**IMPORTANTE 🚨🚨**: NOSOTROS USAREMOS TEXTS
+
+📁 Ahora que hemos ingresado a la carpeta **"TEXTS"** encontraremos distintos archivos, cada uno de estos archivos representa una sección de nuestro sitio web.
+Nosotros nos enfocaremos en el archivo **"texts.js"**.
+Lo abriremos con cualquier editor de texto. 💻▉ **(Bloc de notas)**
+
+![img_9.png](ReadAssets%2FPagina%2Fimg_9.png)
+
+**IMPORTANTE 🚨🚨**: Una vez abierto encontraremos una estructura similar a esta, en la cual encontraremos los textos de nuestro sitio web.
+
+**IMPORTANTE 🚨🚨**: La forma en la que se ve el texto puede variar dependiendo de tu editor de texto.
+
+**Ejemplo 🤓**: 🔵🔵 Si deseamos modificar el enlace de la sección **"Facebook"** que se encuentra en nuestro pie de pagina, debemos modificar los valores del atributo "facebook". 🔵🔵
+
+![img_10.png](ReadAssets%2FPagina%2Fimg_10.png)
+
+**TIP 💡**: 🔵🔵 Como puedes ver en este caso encontramos el link de facebook en la linea 30, pero asi mismo encontramos la posibilidad de poner nuestro link de instagram o whatsapp unas lineas mas abajo 🔵🔵 
+
+**TIP 💡**: Si deseas modificar un enlace, asegúrate de que el enlace sea correcto y que no tenga errores de escritura.
+
+![img_11.png](ReadAssets%2FPagina%2Fimg_11.png)
+
+Asi nos quedaria nuestro enlace de facebook e instagram modificados.
 
 **IMPORTANTE 🚨🚨**: Si deseas modificar un enlace, asegúrate de que el enlace sea correcto y que no tenga errores de escritura.
 
 **IMPORTANTE 🚨🚨**: Si deseas modificar un enlace, asegúrate de que el enlace quede dentro de las "".
  
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
-
-**Hagamos otro Ejemplo 🤓**: 🔵🔵Si deseas modificar el texto de la seccion **Conocenos** debemos ingresar al archivo **About.jsx** desde cualquier editor de texto.🔵🔵
-
-![img_9.png](ReadAssets%2FPagina%2Fimg_9.png)
-
-Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso podria ser nuestro  **"TITULO"**.
-
-**IMPORTANTE 🚨🚨**: Si deseas modificar un texto, asegúrate de solo modificar **EL TEXTO FUERA DE LOS CORCHETES > <.
-
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
-
-
-![img_10.png](ReadAssets%2FPagina%2Fimg_10.png)
-
-🟢🟢 Como puedes ver modificamos el titulo de la seccion **Conocenos** en la linea 9. 🟢🟢
-
-**TIP 💡**: 🔵🔵 Como puedes ver en este caso encontramos el titulo de la seccion **Conocenos** en la linea 9, pero asi mismo encontramos la posibilidad de modificar el texto de la seccion **Conocenos** unas lineas mas abajo 🔵🔵
-
-**TIP 💡**: Si deseas modificar un texto, asegúrate de que el texto sea correcto y que no tenga errores de escritura.
-
-**Ejemplo 🤓**: Modifiquemos ahora el texto de la seccion **Conocenos** en la linea 11.
-
-![img_11.png](ReadAssets%2FPagina%2Fimg_11.png)
-
-Asi nos quedaria nuestro texto modificado.
-
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran, cada una de estas representa un parrafo dentro de nuestro sitio web.
-
-**Por ultimo Ejemplo 🤓**: Modifiquemos el Link de **"Contactanos"** en la seccion **"Contactanos"**.
+**Hagamos otro Ejemplo 🤓**: 🔵🔵Si deseas modificar el texto de la seccion **Acerca de nosotros**.🔵🔵
 
 ![img_12.png](ReadAssets%2FPagina%2Fimg_12.png)
 
-Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso podria ser nuestro  **"Link de whatsApp"**.
+**IMPORTANTE 🚨🚨**: Puedes modificar el texto de la sección **Acerca de nosotros** cambiando el valor del atributo "description1" y/o "description2" si aplica.
 
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
+**IMPORTANTE 🚨🚨**: Si deseas modificar un texto, asegúrate de que el texto sea correcto y que no tenga errores de escritura.
+
+**IMPORTANTE 🚨🚨**: Si deseas modificar un texto, asegúrate de que el texto quede dentro de las "".
+
+**TIP 💡**: Si deseas modificar un texto, asegúrate de que el texto sea claro y conciso para que los usuarios puedan entenderlo fácilmente.
 
 ![img_13.png](ReadAssets%2FPagina%2Fimg_13.png)
 
-🟢🟢 Como puedes ver modificamos el link de la seccion **Contactanos** en la linea 23. 🟢🟢
+Asi nos quedaria nuestro texto de la seccion **Acerca de nosotros** modificado.
 
-**IMPORTANTE 🚨🚨**: Si deseas modificar un enlace, asegúrate de que el enlace sea correcto y que no tenga errores de escritura.
+**IMPORTANTE 🚨🚨**: Asi como hemos modificado el texto de la seccion **Acerca de nosotros** podemos modificar cualquier texto de nuestro sitio web. Solo debemos buscar el atributo correspondiente y modificarlo.
 
-**IMPORTANTE 🚨🚨**: Si deseas modificar un enlace, asegúrate de que el enlace quede dentro de las "" y que no tenga caracteres extra.
 
-**IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
+🟢🟢 Como puedes ver hemos modificado el enlace de facebook e instagram y el texto de la seccion **Acerca de nosotros**. 🟢🟢
+
+
+🛠🖥️️ Ahora si deseamos modificar los colores de nuestro sitio web 🖥️🛠️ (Fondos, lineas, etc) debemos volver a la carpeta principal.
+
+![img_5.png](ReadAssets%2FPagina%2Fimg_5.png)
+
+📁 Una vez ingresemos a nuestra carpeta **"src"** veremos una carpeta similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
+
+![img_6.png](ReadAssets%2FPagina%2Fimg_6.png)
+
+📁 Una vez ingresemos a nuestra carpeta **"src"** veremos una carpeta similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
+
+![img_6.png](ReadAssets%2FPagina%2Fimg_6.png)
+
+📁 En este momento tenemos **VARIAS OPCIONES** que dependen de nuestra necesidad, pero por ahora nos enfocaremos en cambiar nuestros colores.
+**Abriremos el archivo global.css**.
+
+![img_15.png](ReadAssets%2FPagina%2Fimg_15.png)
+
+📁 Una vez que hayamos abierto el archivo **global.css** encontraremos una estructura similar a esta, en la cual encontraremos los colores de nuestro sitio web.
+
+![img_16.png](ReadAssets%2FPagina%2Fimg_16.png)
+
+**IMPORTANTE 🚨🚨**: Si deseas modificar un color, asegúrate de que el color sea correcto y que no tenga errores.
+
+**IMPORTANTE 🚨🚨**: Si deseas modificar un color, deberas expresarlo en **Hexadecimal** o su respectivo **RGB**.
+
+**Ejemplo 🤓**: 🔵🔵 Si deseamos modificar el color de fondo de nuestro sitio web, debemos modificar el valor del atributo "background-color". 🔵🔵
+
+![img_17.png](ReadAssets%2FPagina%2Fimg_17.png)
+
+En este caso hemos modificado el color de fondo de nuestro sitio web a un color azul celeste.
+
+**TIP 💡**: Si deseas modificar un color, asegúrate de que el color sea coherente con la paleta de colores de tu sitio web.
+
+📁 Ahora modificaremos el color de las cabeceras y el pie de pagina de nuestro sitio web.
+
+![img_18.png](ReadAssets%2FPagina%2Fimg_18.png)
+
+Como puedes ver hemos modificado el color de las cabeceras y el pie de pagina de nuestro sitio web a un morado y hemos acompañado con unos tonos mas oscuros el resto de sombras y lineas.
+
+**IMPORTANTE 🚨🚨**: Si deseas modificar un color, asegúrate de que el color sea correcto y que no tenga errores.
+
+
+🟢🟢 Como puedes ver hemos modificado el color de fondo de nuestro sitio web y el color de las cabeceras y el pie de pagina de nuestro sitio web. 🟢🟢
+
+Con este tutorial completado ya tienes los conocimientos necesarios para modificar las imágenes, textos y colores de tu sitio web. Ahora puedes personalizar tu sitio web y mantenerlo actualizado con la información más reciente y relevante.
+
+📁 Una vez que hayas realizado los cambios necesarios en tu sitio web, es importante que los guardes para que puedan ser vistos por otros usuarios en la web.
 
 </div>
 <div>
