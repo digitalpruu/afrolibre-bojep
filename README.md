@@ -104,11 +104,11 @@ Ya sea que necesites ajustar la apariencia de tu sitio, actualizar información 
 
 📁 Nosotros nos encargaremos de la carpeta **"src"** que es la carpeta que nos interesa en este momento.
 
-![img_1.png](ReadAssets%2FPagina%Fimg_1.png)
+![img_1.png](ReadAssets%2FPagina%2Fimg_1.png)
 
 📁 Una vez ingresemos a nuestra carpeta **"src"** veremos una estructura similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
 
-![img_2.png](ReadAssets%2FPagina%Fimg_2.png)
+![img_2.png](ReadAssets%2FPagina%2Fimg_2.png)
 
 📁 En este momento tenemos **DOS OPCIONES** que dependen de nuestra necesidad:
 
@@ -118,7 +118,7 @@ Ya sea que necesites ajustar la apariencia de tu sitio, actualizar información 
 
 </h2>
 
-![img_3.png](ReadAssets%2FPagina%Fimg_3.png)
+![img_3.png](ReadAssets%2FPagina%2Fimg_3.png)
 
 En este punto reemplazaremos la imagen que queramos modificar por la nueva imagen que deseamos colocar. 
 
@@ -128,7 +128,7 @@ En este punto reemplazaremos la imagen que queramos modificar por la nueva image
 
 **Ejemplo 🤓**: Si deseamos reemplazar la imagen **"mainImage.jpg"** por una nueva imagen, la nueva imagen debe tener el nombre **"mainImage.jpg"** y el mismo formato **.jpg**.
 
-![img_4.png](ReadAssets%2FPagina%Fimg_4.png)
+![img_4.png](ReadAssets%2FPagina%2Fimg_4.png)
 
 **TIP 💡**: Si deseas cambiar la imagen de un banner o logo, te recomendamos que la imagen tenga las mismas dimensiones que la imagen que deseas reemplazar.
 
@@ -138,7 +138,7 @@ En este punto reemplazaremos la imagen que queramos modificar por la nueva image
 
 </h2>
 
-![img_5.png](ReadAssets%2FPagina%Fimg_5.png)
+![img_5.png](ReadAssets%2FPagina%2Fimg_5.png)
 
 En esta carpeta encontraremos los archivos que componen el sitio web en su totalidad, cada archivo tiene un propósito específico y es importante que sepamos cuál es el archivo que deseamos modificar.
 
@@ -154,14 +154,14 @@ En esta carpeta encontraremos los archivos que componen el sitio web en su total
 
 **Ejemplo 🤓**: 🔵🔵 Si deseamos modificar el enlace de la sección **"Facebook"** que se encuentra en nuestro pie de pagina, debemos ingresar al archivo **"Footer.jsx"** desde cualquier editor de texto. 🔵🔵
 
-![img_6.png](ReadAssets%2FPagina%Fimg_6.png)
+![img_6.png](ReadAssets%2FPagina%2Fimg_6.png)
 
 Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso **"Facebook"**.
 
 **IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
 
 
-![img_7.png](ReadAssets%2FPagina%Fimg_7.png)
+![img_7.png](ReadAssets%2FPagina%2Fimg_7.png)
 
 **TIP 💡**: 🔵🔵 Como puedes ver en este caso encontramos el link de facebook en la linea 26, pero asi mismo encontramos la posibilidad de poner nuestro link de instagram o whatsapp unas lineas mas abajo 🔵🔵 
 
@@ -169,7 +169,7 @@ Nos encontramos un archivo como este y buscamos la sección que deseamos modific
 
 **IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
 
-![img_8.png](ReadAssets%2FPagina%Fimg_8.png)
+![img_8.png](ReadAssets%2FPagina%2Fimg_8.png)
 
 Asi nos quedaria nuestro enlace de facebook, instagram y whatsApp modificado.
 
@@ -181,7 +181,7 @@ Asi nos quedaria nuestro enlace de facebook, instagram y whatsApp modificado.
 
 **Hagamos otro Ejemplo 🤓**: 🔵🔵Si deseas modificar el texto de la seccion **Conocenos** debemos ingresar al archivo **About.jsx** desde cualquier editor de texto.🔵🔵
 
-![img_9.png](ReadAssets%2FPagina%Fimg_9.png)
+![img_9.png](ReadAssets%2FPagina%2Fimg_9.png)
 
 Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso podria ser nuestro  **"TITULO"**.
 
@@ -190,7 +190,7 @@ Nos encontramos un archivo como este y buscamos la sección que deseamos modific
 **IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
 
 
-![img_10.png](ReadAssets%2FPagina%Fimg_10.png)
+![img_10.png](ReadAssets%2FPagina%2Fimg_10.png)
 
 🟢🟢 Como puedes ver modificamos el titulo de la seccion **Conocenos** en la linea 9. 🟢🟢
 
@@ -200,7 +200,7 @@ Nos encontramos un archivo como este y buscamos la sección que deseamos modific
 
 **Ejemplo 🤓**: Modifiquemos ahora el texto de la seccion **Conocenos** en la linea 11.
 
-![img_11.png](ReadAssets%2FPagina%Fimg_11.png)
+![img_11.png](ReadAssets%2FPagina%2Fimg_11.png)
 
 Asi nos quedaria nuestro texto modificado.
 
@@ -208,14 +208,13 @@ Asi nos quedaria nuestro texto modificado.
 
 **Por ultimo Ejemplo 🤓**: Modifiquemos el Link de **"Contactanos"** en la seccion **"Contactanos"**.
 
-![img_12.png](ReadAssets%2FPagina%Fimg_12.png)
+![img_12.png](ReadAssets%2FPagina%2Fimg_12.png)
 
 Nos encontramos un archivo como este y buscamos la sección que deseamos modificar, en este caso podria ser nuestro  **"Link de whatsApp"**.
 
 **IMPORTANTE 🚨🚨**: Cada una de estas lineas entre **<>** son las que se visualizaran dentro de nuestro sitio web, NO MODIFICAR NADA QUE NO SE INDIQUE DENTRO DE LOS CORCHETES.
 
-
-![img_13.png](ReadAssets%2FPagina%Fimg_13.png)
+![img_13.png](ReadAssets%2FPagina%2Fimg_13.png)
 
 🟢🟢 Como puedes ver modificamos el link de la seccion **Contactanos** en la linea 23. 🟢🟢
 
