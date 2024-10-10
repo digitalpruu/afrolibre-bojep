@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b87846-441a-48f0-bde6-d0ecf65393eb" name="Changes" comment="Funcional pero sin adjuntar archivos">
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +103,7 @@
       <workItem from="1726552152152" duration="261000" />
       <workItem from="1727419637932" duration="178000" />
       <workItem from="1727923963796" duration="49000" />
-      <workItem from="1728543267770" duration="5434000" />
+      <workItem from="1728543267770" duration="5862000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
