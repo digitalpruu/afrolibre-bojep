@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b87846-441a-48f0-bde6-d0ecf65393eb" name="Changes" comment="Funcional pero sin adjuntar archivos">
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Github/img-1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Github/img-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Github/img-3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Github/img-4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReadAssets/Github/img-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/ReadAssets/Pagina/img_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadAssets/Pagina/img_9.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +116,7 @@
       <workItem from="1726552152152" duration="261000" />
       <workItem from="1727419637932" duration="178000" />
       <workItem from="1727923963796" duration="49000" />
-      <workItem from="1728543267770" duration="2371000" />
+      <workItem from="1728543267770" duration="3376000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />

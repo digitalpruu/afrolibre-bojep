@@ -124,15 +124,15 @@ Ya sea que necesites ajustar la apariencia de tu sitio, actualizar información 
 
 📁 Dentro de nuestra carpeta **principal** encontraremos distintas carpetas y archivos incluido este tutorial, cada carpeta viene con un propósito específico para el correcto funcionamiento de nuestro sitio web.
 
-📁 Nosotros nos encargaremos de la carpeta **"src"** que es la carpeta que nos interesa en este momento.
+📁 Nosotros nos encargaremos de la carpeta **"public"** que es la carpeta que nos interesa en este momento.
 
 ![img_1.png](ReadAssets%2FPagina%2Fimg_1.png)
 
-📁 Una vez ingresemos a nuestra carpeta **"src"** veremos una estructura similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
+📁 Una vez ingresemos a nuestra carpeta **"public"** veremos una estructura similar a esta, en la cual encontraremos los archivos necesarios para la visualización de nuestro sitio web.
 
 ![img_2.png](ReadAssets%2FPagina%2Fimg_2.png)
 
-📁 En este momento tenemos **DOS OPCIONES** que dependen de nuestra necesidad:
+📁 En este momento tenemos **DOS OPCIONES** que dependen de nuestra necesidad, pero por ahora nos enfocaremos en cambiar nuestras imagenes.:
 
 <h2>
 
@@ -154,23 +154,10 @@ En este punto reemplazaremos la imagen que queramos modificar por la nueva image
 
 **TIP 💡**: Si deseas cambiar la imagen de un banner o logo, te recomendamos que la imagen tenga las mismas dimensiones que la imagen que deseas reemplazar.
 
-<h2> 
-
-2. **🛠🖥️️ Si deseamos modificar el contenido de nuestro sitio web 🛠️🖥️️** (Textos, enlaces, etc) debemos ingresar a la carpeta **"components"**.
-
-</h2>
 
 ![img_5.png](ReadAssets%2FPagina%2Fimg_5.png)
 
-En esta carpeta encontraremos los archivos que componen el sitio web en su totalidad, cada archivo tiene un propósito específico y es importante que sepamos cuál es el archivo que deseamos modificar.
-
-**Ejemplo 🤓**: Si deseamos modificar el texto de la sección **"Conocenos"** debemos ingresar al archivo **"About.jsx"**.
-
-**Ejemplo 🤓**: Si deseamos modificar el texto de la sección **"Contactanos"** debemos ingresar al archivo **"ContactUs.jsx"**.
-
-**Ejemplo 🤓**: Si deseamos modificar el texto de la sección **"Barra superior / Encabezado"** debemos ingresar al archivo **"Header.jsx"**.
-
-**Ejemplo 🤓**: Si deseamos modificar el texto de la sección **"Pie de página / Barra inferior final"** debemos ingresar al archivo **"Footer.jsx"**.
+🟢🟢 Como puedes ver hemos reemplazado la imagen **"mainImage.jpg"** por una nueva imagen con el mismo nombre y formato. 🟢🟢
 
 <br>
 
