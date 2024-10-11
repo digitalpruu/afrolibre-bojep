@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="34b87846-441a-48f0-bde6-d0ecf65393eb" name="Changes" comment="Funcional pero sin adjuntar archivos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/texts/texts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/texts/texts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +31,12 @@
     &quot;assignee&quot;: &quot;KevinPicon01&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/KevinPicon01/plantilla.git&quot;,
-    &quot;accountId&quot;: &quot;228ff8df-4639-4230-bd0b-97d52fa30f1f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/digitalpruu/afrolibre-bojep.git",
+    "accountId": "228ff8df-4639-4230-bd0b-97d52fa30f1f"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -51,7 +52,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kevinpicon/Documents/Proyecto/afrolibre-bojep/ReadAssets/Github&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kevinpicon/Documents/Proyecto/afrolibre-bojep/public/assets&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -66,8 +67,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ReadAssets/Github" />
       <recent name="$PROJECT_DIR$/public/assets" />
+      <recent name="$PROJECT_DIR$/ReadAssets/Github" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/app" />
       <recent name="$PROJECT_DIR$/src/app/styles" />
@@ -104,7 +105,8 @@
       <workItem from="1727419637932" duration="178000" />
       <workItem from="1727923963796" duration="49000" />
       <workItem from="1728543267770" duration="5862000" />
-      <workItem from="1728584082156" duration="3145000" />
+      <workItem from="1728584082156" duration="7384000" />
+      <workItem from="1728658192630" duration="1766000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
