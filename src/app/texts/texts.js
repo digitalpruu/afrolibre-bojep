@@ -1,4 +1,4 @@
-const title = "Fundación afrocolombiana liberal desarrollo social afrolibre.";
+const title = 'FUNDACIÓN AFROCOLOMBIANA LIBERAL DE DESARROLLO SOCIAL “AFROLIBRE"';
 const email = "wilsonpalaciosprofe1976@gmail.com";
 const mensajeWhatsApp = encodeURIComponent(
     "¡Hola! Estoy interesado en conocer más sobre los productos de " + title + " y me gustaría obtener más información. ¡Gracias!"
