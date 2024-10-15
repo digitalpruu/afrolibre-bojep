@@ -39,7 +39,7 @@ const textos = {
         address: "", // Información no proporcionada
         phone: numeroWhatsApp,
         email: email,
-        facebook: "https://www.facebook.com/profile.php?id=61565950811951", // Enlace específico de Facebook
+        facebook: "https://web.facebook.com/Clubdeportivoborja?mibextid=ZbWKwL&_rdc=1&_rdr", // Enlace específico de Facebook
         instagram: "https://www.instagram.com/", // Enlace específico de Instagram
         whatsappLink: `https://wa.me/${numeroWhatsApp}?text=${mensajeWhatsApp}`
     },
